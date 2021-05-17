@@ -1,0 +1,10 @@
+Yes,Hello is printed to the console
+5
+null,null
+APRIL : 4
+B E C D
+[orange,mango,banana,grape]
+Compilation error
+C
+D
+C
