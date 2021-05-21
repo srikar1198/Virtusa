@@ -1,0 +1,10 @@
+D. compillation varaiable not initaialized
+A . a=9 & res =true , cuz of logical or
+A. class1 & class2 ; cuz private modifier in class3 compilation fails
+D. One String[] args is the main method.
+C. null:null.
+A.java.lang.OutOfMemoryError  RuntimeException.
+F. NUllPointerExceptionIsthrown In runtime.
+B
+C,F Current invocation
+11.5,1.o
