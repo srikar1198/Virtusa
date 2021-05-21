@@ -1,0 +1,4 @@
+Palindrome
+Topper Problem
+The average
+Hashmap
