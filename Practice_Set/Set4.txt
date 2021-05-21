@@ -1,0 +1,10 @@
+A: true,true
+A : two in string constant pool, 1 in heap by new string.
+A : an exception is thrown at run time
+C: java.lang
+A: code fails to compile  cuz it's undefined in LocalDate class
+B: true
+B: an Exception is thrown concurrentException
+D: java.time.format
+C:FTFFF
+B: 3,0
