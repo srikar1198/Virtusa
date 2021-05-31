@@ -1,0 +1,33 @@
+Singleton definition : Ensure that a class has one Instance and provide a global point of
+access
+
+Implementation 
+
+1. Make sure that there is only one Instance(Restrict Construction)
+make constructor private and let the class manage its instance.
+
+2.provide a global point of access : A static method to get the Sole instance.
+
+
+Why IT's Hard TO nail down the singleton?
+
+because we can violate the sole instance in java
+
+Reflection
+Serialization/ de serialization
+clone 
+multi-threaded access
+multiple class loaders
+garbage collection  //older versions
+
+
+
+
+
+
+
+Trying to make a captain for our team
+New captain selected for our team
+Trying to make another captain for our team
+You already have a captain for our team. Send him to toss
+c1 and c2 are same instance
