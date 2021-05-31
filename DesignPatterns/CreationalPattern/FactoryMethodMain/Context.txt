@@ -1,0 +1,18 @@
+Factory Method Design Pattern
+
+Define an interface for Creating an object, but let subclasses decide which object to 
+instantiate. factory method lets a class defer instantiation to subclasses
+
+a method which is a factory
+//virtual constructor
+
+Implementation 
+*Provide an interface Creating an object-
+Here ,do not consider the word interface as java interface.it simply means to provide a contract/method
+to create an object
+
+*Let the subclass decide what exact object to instantiate - this pattern involves "Inheritance".
+
+
+//Requirements 
+to provide a batch processor that process fixed length records
